@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/disafronov/semantic-docker-template/compare/v1.1.3...v1.2.0) (2026-04-27)
+
+### Features
+
+* platforms: linux/amd64,linux/arm64 ([ca8c344](https://github.com/disafronov/semantic-docker-template/commit/ca8c34489731debb758e3d3d92d4f42ea9fd9a99))
+
 ## [1.1.0](https://github.com/disafronov/semantic-docker-template/compare/v1.0.1...v1.1.0) (2025-12-24)
 
 ### Features
