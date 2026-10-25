@@ -1,3 +1,5 @@
+## [1.2.7](https://github.com/disafronov/semantic-docker-template/compare/v1.2.6...v1.2.7) (2026-10-25)
+
 ## [1.2.6](https://github.com/disafronov/semantic-docker-template/compare/v1.2.5...v1.2.6) (2026-10-23)
 
 ## [1.2.3](https://github.com/disafronov/semantic-docker-template/compare/v1.2.2...v1.2.3) (2026-07-01)
