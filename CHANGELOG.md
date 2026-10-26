@@ -1,3 +1,9 @@
+## [1.2.11](https://github.com/disafronov/semantic-docker-template/compare/v1.2.10...v1.2.11) (2026-10-26)
+
+### Bug Fixes
+
+* keep template releases stable on main ([bd0ea5f](https://github.com/disafronov/semantic-docker-template/commit/bd0ea5f6e05cbf9c3698e7f6711aa42cd1c8e73b))
+
 ## [1.2.10](https://github.com/disafronov/semantic-docker-template/compare/v1.2.9...v1.2.10) (2026-10-26)
 
 ## [1.2.9](https://github.com/disafronov/semantic-docker-template/compare/v1.2.8...v1.2.9) (2026-10-25)
