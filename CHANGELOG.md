@@ -1,3 +1,10 @@
+## [1.2.14](https://github.com/disafronov/semantic-docker-template/compare/v1.2.13...v1.2.14) (2026-10-27)
+
+### Bug Fixes
+
+* use GitHub glob syntax for Docker release tag triggers ([82206fe](https://github.com/disafronov/semantic-docker-template/commit/82206fe407ad4fbd1b8d81d640895d49b38e8a73))
+* validate stable and RC SemVer tags before Docker build ([78ea288](https://github.com/disafronov/semantic-docker-template/commit/78ea28810a0c109c3e5e77a4216edb4845870b53))
+
 ## [1.2.13](https://github.com/disafronov/semantic-docker-template/compare/v1.2.12...v1.2.13) (2026-10-27)
 
 ## [1.2.11](https://github.com/disafronov/semantic-docker-template/compare/v1.2.10...v1.2.11) (2026-10-26)
