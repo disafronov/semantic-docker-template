@@ -1,3 +1,9 @@
+## [1.2.15](https://github.com/disafronov/semantic-docker-template/compare/v1.2.14...v1.2.15) (2026-10-27)
+
+### Bug Fixes
+
+* sign all published Docker image digests ([0aa3807](https://github.com/disafronov/semantic-docker-template/commit/0aa38076cd0a30006f02278d6f5b3e10e96268f4))
+
 ## [1.2.14](https://github.com/disafronov/semantic-docker-template/compare/v1.2.13...v1.2.14) (2026-10-27)
 
 ### Bug Fixes
