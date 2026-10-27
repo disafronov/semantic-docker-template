@@ -1,3 +1,5 @@
+## [1.2.13](https://github.com/disafronov/semantic-docker-template/compare/v1.2.12...v1.2.13) (2026-10-27)
+
 ## [1.2.11](https://github.com/disafronov/semantic-docker-template/compare/v1.2.10...v1.2.11) (2026-10-26)
 
 ### Bug Fixes
