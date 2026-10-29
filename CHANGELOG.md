@@ -1,3 +1,9 @@
+## [1.2.16](https://github.com/disafronov/semantic-docker-template/compare/v1.2.15...v1.2.16) (2026-10-29)
+
+### Code Refactoring
+
+* sync from template v2.3.2 ([a9bf928](https://github.com/disafronov/semantic-docker-template/commit/a9bf9280feb23d0e17368de7731f176e4a9b6621))
+
 ## [1.2.15](https://github.com/disafronov/semantic-docker-template/compare/v1.2.14...v1.2.15) (2026-10-27)
 
 ### Bug Fixes
