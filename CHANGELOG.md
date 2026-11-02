@@ -1,3 +1,9 @@
+## [1.2.17](https://github.com/disafronov/semantic-docker-template/compare/v1.2.16...v1.2.17) (2026-11-02)
+
+### Bug Fixes
+
+* **ci:** build Docker images for rc pull requests ([1eadc3e](https://github.com/disafronov/semantic-docker-template/commit/1eadc3e2103ad84aedd2c54f33bc8fb09b07d464))
+
 ## [1.2.16](https://github.com/disafronov/semantic-docker-template/compare/v1.2.15...v1.2.16) (2026-10-29)
 
 ### Code Refactoring
