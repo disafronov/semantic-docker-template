@@ -1,3 +1,9 @@
+## [1.2.23](https://github.com/disafronov/semantic-docker-template/compare/v1.2.22...v1.2.23) (2026-11-20)
+
+### Code Refactoring
+
+* sync from disafronov/semantic-basic-template v4.0.2 ([3c8feaf](https://github.com/disafronov/semantic-docker-template/commit/3c8feafed5c2018bdeed02ca72fca3657e6ef433))
+
 ## [1.2.21](https://github.com/disafronov/semantic-docker-template/compare/v1.2.20...v1.2.21) (2026-11-05)
 
 ### Code Refactoring
